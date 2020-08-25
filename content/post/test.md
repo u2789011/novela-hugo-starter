@@ -2,7 +2,7 @@
 authors = []
 date = 2020-08-24T16:00:00Z
 excerpt = "飛他時品走。丁飛細媽夕童這叫怕打，肖星乙兔連百幸相南故像師雞氣己！"
-hero = "/images/8886.jpg"
+hero = ""
 timeToRead = 10
 title = "穴女說羽怎斥會馬前"
 
